@@ -1,0 +1,23 @@
+{
+  "name": "karma-es5-shim",
+  "version": "2.1.0",
+  "description": "es5-shim adapter for Karma",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-framework",
+    "es5-shim",
+    "shim"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pokehanai/karma-es5-shim.git"
+  },
+  "author": "HANAI Tohru aka pokehanai <hanai@pokelabo.co.jp>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
